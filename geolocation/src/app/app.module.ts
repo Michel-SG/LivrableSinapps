@@ -23,7 +23,7 @@ import { ViewCordinateService } from './services/view-cordinate.service';
     ReactiveFormsModule,
     HttpClientModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyCKRDvISi52UfkEouYxPwsmvhDdxafdDRI'
+      apiKey: ''
     }),
   ],
   providers: [ViewCordinateService],
